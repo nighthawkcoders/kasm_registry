@@ -1,8 +1,8 @@
 {
-    "friendly_name": "CS Ubuntu 2.0.5",
+    "friendly_name": "CS Ubuntu 2.0.6",
     "image_src": "nighthawkcoders-stu-edition.png",
     "description": "This Dockerfile creates a Docker image based on Ubuntu, with Google Chrome and Visual Studio Code pre-installed. It's designed to provide students with a consistent, ready-to-use development environment on any device.",
-    "name": "nighthawkcoders/pusd-student-ubuntu:2.0.5-cs",
+    "name": "nighthawkcoders/pusd-student-ubuntu:2.0.6-cs",
     "cores": 2,
     "memory": 2768,
     "gpu_count": 0,
@@ -23,8 +23,7 @@
       ],
     "compatibility": [
         "1.14.x",
-        "1.15.x",
-        "1.16.x"
+        "1.15.x"
     ],
     "uncompressed_size_mb": 4200
 }
